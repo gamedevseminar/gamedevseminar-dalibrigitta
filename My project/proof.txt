@@ -1,0 +1,6 @@
+--- UNITY SETUP PROOF ---
+Unity Version: 6000.2.14f1
+OS: Windows 11  (10.0.26100) 64bit
+Device: BRIGII
+GPU: AMD Radeon(TM) 860M Graphics
+-------------------------
